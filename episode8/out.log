@@ -1,0 +1,4 @@
+2020-01-19 17:06:28,464 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-01-19 17:06:31,384 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2020-01-19 17:06:55,459 [ERROR]  Task was destroyed but it is pending!
+task: <Task pending coro=<AsyncServer._service_task() running at /usr/local/lib/python3.7/site-packages/engineio/asyncio_server.py:461> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x15d144a90>()]>>

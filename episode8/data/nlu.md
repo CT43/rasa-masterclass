@@ -20,6 +20,9 @@
 - do you have something else
 - no this does not work for me
 
+##intent:start_over
+- start over
+
 
 ## intent:out_of_scope
 - please help with my ice cream it's dripping

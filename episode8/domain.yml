@@ -9,6 +9,7 @@ intents:
   - search_provider
   - thanks
   - out_of_scope
+  - start_over
 
 entities:
 - facility_type
@@ -37,6 +38,7 @@ actions:
 - find_facility_types
 - find_healthcare_address
 - utter_address
+- start_over
 
 
 templates:

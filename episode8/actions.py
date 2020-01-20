@@ -87,7 +87,6 @@ def _resolve_name(facility_types, resource) ->Text:
             return value.get("name")
     return ""
 
-
 class FindFacilityTypes(Action):
     """This action class allows to display buttons for each facility type
     for the user to chose from to fill the facility_type entity slot."""
